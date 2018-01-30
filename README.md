@@ -31,6 +31,8 @@ version is 4.3.11.
      for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
        ln -s "$rcfile" "${ZDOTDIR:-$HOME}/.${rcfile:t}"
      done
+     cd $ZPREZTODIR
+     git remote add upstream https://github.com/sorin-ionescu/prezto
      ```
 
      Note: If you already have any of the given config files, ln will error. In
