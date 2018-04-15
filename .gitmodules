@@ -28,9 +28,6 @@
 [submodule "modules/prompt/external/powerlevel9k"]
 	path = modules/prompt/external/powerlevel9k
 	url = https://github.com/bhilburn/powerlevel9k.git
-[submodule "contrib/prompt/external/zsh-prompt-garrett"]
-	path = contrib/prompt/external/zsh-prompt-garrett
-	url = https://github.com/chauncey-garrett/zsh-prompt-garrett
 [submodule "contrib/contrib-prompt/external/lean"]
 	path = contrib/contrib-prompt/external/lean
 	url = https://github.com/miekg/lean
