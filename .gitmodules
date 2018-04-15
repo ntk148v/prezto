@@ -28,21 +28,21 @@
 [submodule "modules/prompt/external/powerlevel9k"]
 	path = modules/prompt/external/powerlevel9k
 	url = https://github.com/bhilburn/powerlevel9k.git
-[submodule "contrib/contrib-prompt/external/lean"]
-	path = contrib/contrib-prompt/external/lean
+[submodule "modules/prompt/external/lean"]
+	path = modules/prompt/external/lean
 	url = https://github.com/miekg/lean
-[submodule "contrib/contrib-prompt/external/dracula"]
-	path = contrib/contrib-prompt/external/dracula
+[submodule "modules/prompt/external/dracula"]
+	path = modules/prompt/external/dracula
 	url = https://github.com/dracula/zsh
-[submodule "contrib/git-open"]
-	path = contrib/git-open
+[submodule "modules/git-open"]
+	path = modules/git-open
 	url = https://github.com/paulirish/git-open
-[submodule "contrib/contrib-prompt/external/bullet-train.zsh"]
-	path = contrib/contrib-prompt/external/bullet-train.zsh
+[submodule "modules/prompt/external/bullet-train.zsh"]
+	path = modules/prompt/external/bullet-train.zsh
 	url = https://github.com/caiogondim/bullet-train.zsh
-[submodule "contrib/contrib-prompt/external/zsh-prompt-garrett"]
-	path = contrib/contrib-prompt/external/zsh-prompt-garrett
+[submodule "modules/prompt/external/zsh-prompt-garrett"]
+	path = modules/prompt/external/zsh-prompt-garrett
 	url = https://github.com/chauncey-garrett/zsh-prompt-garrett
-[submodule "contrib/contrib-prompt/external/spaceship-prompt"]
-	path = contrib/contrib-prompt/external/spaceship-prompt
+[submodule "modules/prompt/external/spaceship-prompt"]
+	path = modules/prompt/external/spaceship-prompt
 	url = https://github.com/denysdovhan/spaceship-prompt
