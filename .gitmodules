@@ -28,9 +28,19 @@
 [submodule "modules/prompt/external/powerlevel9k"]
 	path = modules/prompt/external/powerlevel9k
 	url = https://github.com/bhilburn/powerlevel9k.git
-[submodule "modules/prompt/external/spaceship"]
-	path = modules/prompt/external/spaceship
-	url = https://github.com/denysdovhan/spaceship-prompt
-[submodule "modules/git-open"]
-	path = modules/git-open
+[submodule "contrib/git-open"]
+	path = contrib/git-open
 	url = https://github.com/paulirish/git-open
+[submodule "contrib/prompt/external/zsh-prompt-garrett"]
+	path = contrib/prompt/external/zsh-prompt-garrett
+	url = https://github.com/chauncey-garrett/zsh-prompt-garrett
+[submodule "contrib/prompt/external/lean"]
+	path = contrib/prompt/external/lean
+	url = https://github.com/miekg/lean
+[submodule "contrib/prompt/external/spaceship"]
+	path = contrib/prompt/external/spaceship
+	url = https://github.com/denysdovhan/spaceship-prompt
+
+[submodule "contrib/prompt/external/zsh"]
+	path = contrib/prompt/external/zsh
+	url = https://github.com/dracula/zsh.git
