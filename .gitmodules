@@ -31,9 +31,6 @@
 [submodule "contrib/contrib-prompt/external/lean"]
 	path = contrib/contrib-prompt/external/lean
 	url = https://github.com/miekg/lean
-[submodule "contrib/contrib-prompt/external/spaceship"]
-	path = contrib/contrib-prompt/external/spaceship
-	url = https://github.com/denysdovhan/spaceship-prompt
 [submodule "contrib/contrib-prompt/external/dracula"]
 	path = contrib/contrib-prompt/external/dracula
 	url = https://github.com/dracula/zsh.git
