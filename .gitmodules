@@ -46,3 +46,6 @@
 [submodule "modules/git-open"]
 	path = modules/git-open
 	url = https://github.com/paulirish/git-open
+[submodule "modules/prompt/external/purer"]
+	path = modules/prompt/external/purer
+	url = https://github.com/dfurnes/purer
