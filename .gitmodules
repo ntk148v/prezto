@@ -31,12 +31,6 @@
 [submodule "modules/prompt/external/lean"]
 	path = modules/prompt/external/lean
 	url = https://github.com/miekg/lean
-[submodule "modules/prompt/external/dracula"]
-	path = modules/prompt/external/dracula
-	url = https://github.com/dracula/zsh
-[submodule "modules/prompt/external/bullet-train.zsh"]
-	path = modules/prompt/external/bullet-train.zsh
-	url = https://github.com/caiogondim/bullet-train.zsh
 [submodule "modules/prompt/external/zsh-prompt-garrett"]
 	path = modules/prompt/external/zsh-prompt-garrett
 	url = https://github.com/chauncey-garrett/zsh-prompt-garrett
