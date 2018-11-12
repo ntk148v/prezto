@@ -43,3 +43,6 @@
 [submodule "modules/prompt/external/purer"]
 	path = modules/prompt/external/purer
 	url = https://github.com/dfurnes/purer
+[submodule "modules/prompt/external/alien-minimal"]
+	path = modules/prompt/external/alien-minimal
+	url = https://github.com/eendroroy/alien-minimal
